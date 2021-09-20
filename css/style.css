@@ -1,0 +1,117 @@
+.container{
+    background-color: red;
+    margin: 20px 12%;
+}
+
+.box{
+    margin-bottom: 60px;
+    float: left;
+    width: 31%;
+    margin-right: 20px;
+}
+
+.img{
+    background-position: center;
+    background-size: cover;
+    float: left;
+    height: 550px;
+    width: 100%;
+}
+
+.heart{
+    background-color: white;
+    width: min-content;
+    padding: 10px 15px;
+    float: right;
+    position: relative;
+    top: 20px;
+    font-size: 25px;
+}
+
+.discount{
+    background-color: #eb0037;
+    width: min-content;
+    color: white;
+    float: left;
+    position: relative;
+    padding: 2px;
+    top: 500px;
+    margin-right: 3px;
+}
+
+.sostenibility{
+    background-color: #00875a;
+    width: min-content;
+    color: white;
+    float: left;
+    position: relative;
+    padding: 2px;
+    top: 500px;
+}
+
+.brand{
+    margin-top: 560px;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.price{
+    color: #eb0037;
+    font-weight: bold;
+}
+
+.price span{
+    color: black;
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+
+#first{
+    background-image: url("../img/img/img/1.webp");
+}
+
+#first:hover{
+    background-image: url("../img/img/img/1b.webp");
+}
+
+#second{
+    background-image: url("../img/img/img/2.webp");
+}
+
+#second:hover{
+    background-image: url("../img/img/img/2b.webp");
+}
+
+#third{
+    background-image: url("../img/img/img/3.webp");
+}
+
+#third:hover{
+    background-image: url("../img/img/img/3b.webp");
+}
+
+#fourth{
+    background-image: url("../img/img/img/4.webp");
+}
+
+#fourth:hover{
+    background-image: url("../img/img/img/4b.webp");
+}
+
+#fifth{
+    background-image: url("../img/img/img/5.webp");
+}
+
+#fifth:hover{
+    background-image: url("../img/img/img/5b.webp");
+}
+
+#sixth{
+    background-image: url("../img/img/img/6.webp");
+}
+
+#sixth:hover{
+    background-image: url("../img/img/img/6b.webp");
+}
